@@ -4,18 +4,26 @@
 Experiments and kids
 ====================
 
-History has been described as the study of "why we are who we are".
+::
 
-Technology has enabled humankind to reach unprecendented levels of
-safety, health and richness - and the history of that technology
-teaches so much about how we arrived at today - and we hope will teach
-us to cherish the inquisitive restless nature of discovery - and
-bequeath better technology and a better world to tomorrow.
+  Kids need to *do* the great experiments of the past to understand
+  how we built today. And maybe will build tomorrow.
+
+The history of technology has made humanity who it is, each advance in
+technology changing what we believed possible - and each such change
+has been the result of *scientific experimentation* - a clear,
+definitive, unarguable demonstration of a new world we previously
+could not see.
+
+How we got here is important - and every child should have the opportunity 
+to understand how humanity thought before those experiments came along - for 
+we can be sure humanity is going to have to change its mind again and again 
+this century.
 
 So, this is a little bridge linking the past and the future - a means
 for everyday parents to encourage discovery and experimentalism in
-their children and children around them - and *at the same time*
-enrich our relationships with our children.
+their children - and *at the same time* enrich our relationships with
+our children.
 
 Of course, thats if we can understand the calculus :-)
 
@@ -23,7 +31,9 @@ Of course, thats if we can understand the calculus :-)
 What do I do?
 -------------
 
-If you can contribute to an experiment - please add one in through the pull request mechanism).  Ideally we want to see youtube videos of successful how-tos
+If you can contribute to an experiment - please add one in through the
+pull request mechanism).  Ideally we want to see youtube videos of
+successful how-tos
 
 Restrictions
 ------------
@@ -37,14 +47,18 @@ permissions) in time
 Is it difficult?
 ----------------
 
-To be fair most of we parents will get stuck once the experiments need calculus, but don't worry our kids can explain that to us !
+To be fair most of we parents will get stuck once the experiments need
+calculus, but don't worry our kids can explain that to us !
 
-Do I have to go back to school?  Well, not really - and that is I hope one of the benefits of a online community - we can sneakily ask for help without our kids listening in. 
+Do I have to go back to school?  Well, not really - and that is I hope
+one of the benefits of a online community - we can sneakily ask for
+help without our kids listening in.
 
 So what is this?
 ----------------
 
-This is just a listing of experiments - what to do, how to do it and what to learn.
+This is just a listing of experiments - what to do, how to do it and
+what to learn.
 
 It will grow in time.
 
