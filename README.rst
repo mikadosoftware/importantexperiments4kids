@@ -4,14 +4,35 @@
 Experiments and kids
 ====================
 
-We stand at the edges of an ever expanding bubble of human knowledge. 
+History has been described as the study of "why we are who we are".
 
-I am a member of the UK Stem ambassadors program (I am not claiming
-any endorsement there) and I think this is something worthwhile - a
-list of instructions on conducting important experiments from
-history - and what we can learn from them.
+Technology has enabled humankind to reach unprecendented levels of
+safety, health and richness - and the history of that technology
+teaches so much about how we arrived at today - and we hope will teach
+us to cherish the inquisitive restless nature of discovery - and
+bequeath better technology and a better world to tomorrow.
 
-Obviously there are age related restrictions, some safety and some practicality restrictions - but I would hope that these experiments are not limited to Father and son in the garage - I would hope we will see some of these using school or public premises (with all suitable permissions) in time
+So, this is a little bridge linking the past and the future - a means
+for everyday parents to encourage discovery and experimentalism in
+their children and children around them - and *at the same time*
+enrich our relationships with our children.
+
+Of course, thats if we can understand the calculus :-)
+
+
+What do I do?
+-------------
+
+If you can contribute to an experiment - please add one in through the pull request mechanism).  Ideally we want to see youtube videos of successful how-tos
+
+Restrictions
+------------
+
+Obviously there are age related restrictions, some safety and some
+practicality restrictions - but I would hope that these experiments
+are not limited to Father and son in the garage - I would hope we will
+see some of these using school or public premises (with all suitable
+permissions) in time
 
 Is it difficult?
 ----------------
