@@ -6,8 +6,8 @@ Experiments and kids
 
 ::
 
-  Kids need to *do* the great experiments of the past to understand
-  how we built today. And maybe will build tomorrow.
+  Kids need to *do* the great experiments of the past to understand how we built today.
+  Because they will have to build tomorrow. 
 
 The history of technology has made humanity who it is, each advance in
 technology changing what we believed possible - and each such change
