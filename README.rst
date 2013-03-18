@@ -1,4 +1,5 @@
-.. Great experiments of the past - with added children!
+:docurl: http://importantexperiments4kids.mikadosoftware.com
+:desc: Great experiments of the past - with added children!
 
 ====================
 Experiments and kids
