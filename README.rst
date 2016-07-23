@@ -148,7 +148,7 @@ An experiment is best formatted as below::
   Name:: Calculating the size of the Earth
 
   History::
-        <some notes on Erastothenes and why Columbus wanted to 
+        <some notes on Eratosthenes and why Columbus wanted to
          sail round the world>
 
   Age group:: 
