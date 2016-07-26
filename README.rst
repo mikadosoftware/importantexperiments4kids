@@ -10,6 +10,24 @@ Experiments and kids
   Kids need to *do* the great experiments of the past to understand how we built today.
   Because they will have to build tomorrow. 
 
+
+One of Arthur C Clarke's more famous quotes is "Any sufficiently advanced technology is indistinguishable from magic".  
+
+
+It's a great quote.  But if you are one of the people watching the technology, it puts you in a strange position.  The gods have come down from heaven and demonstrated their power. Will our own gods respond? Are our own gods old or tired?
+
+The problem here is that we have not positioned God against technology, but have simply made the question which God is stronger?
+
+If we do not understand our technology, then eventually both magic and technology become indistinguishable and the choice is now a preference between two gods.
+
+As technology and science advance, fewer and fewer people keep up, and so each advance leaves more of the population unable to tell the difference between God and science.
+
+And that matters.  We need to be able to understand the formulas, derive "e=mc2", to repeat the experiments of the past simply in order to know what is magic and what is science.
+
+Otherwise we leave politics to a preference between two gods.
+
+
+
 The history of technology has made humanity who it is, each advance in
 technology changing what we believed possible - and each such change
 has been the result of *scientific experimentation* - a clear,
