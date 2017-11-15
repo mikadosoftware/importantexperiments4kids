@@ -14,10 +14,10 @@ Experiments and kids
 One of Arthur C Clarke's more famous quotes is "Any sufficiently advanced technology is indistinguishable from magic".  
 
 
-It's a great quote.  But if you are one of the people watching the technology, it puts you in a strange position.  The gods have come down from heaven and demonstrated their power. Will our own gods respond? Are our own gods old or tired?
+It's a great quote.  And generally was meant to show how people from times gone by would be unable to comprehend our modern advances
 
-The problem here is that we have not positioned God against technology, but have simply made the question which God is stronger?
 
+But frankly we don't either !
 If we do not understand our technology, then eventually both magic and technology become indistinguishable and the choice is now a preference between two gods.
 
 As technology and science advance, fewer and fewer people keep up, and so each advance leaves more of the population unable to tell the difference between God and science.
@@ -129,6 +129,13 @@ Science
 * growing peas or fruit flies for genetics.
 
 * Anything by Lavoisier, Boyle, Pascal, Davy, Faraday :-)
+
+(Re)Building the modern economy
+-------
+- fast Fourier transforms
+- Ethernet
+- banks
+
 
 Maker-stuff
 -----------
