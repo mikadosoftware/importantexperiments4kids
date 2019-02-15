@@ -14,11 +14,12 @@ Experiments and kids
 One of Arthur C Clarke's more famous quotes is "Any sufficiently advanced technology is indistinguishable from magic".  
 
 
-It's a great quote.  And generally was meant to show how people from times gone by would be unable to comprehend our modern advances
+It's a great quote.  It's often taken to allow us to laugh at this poor uneducated people in the Dark Ages, and how they could never understand Aeroplanes, Modern Finance or Computer CPUs
 
+The problem is, we don't either !
+I don't know how 
 
-But frankly we don't either !
-If we do not understand our technology, then eventually both magic and technology become indistinguishable and the choice is now a preference between two gods.
+It's just sort of lumped in under "complicated networks"
 
 As technology and science advance, fewer and fewer people keep up, and so each advance leaves more of the population unable to tell the difference between God and science.
 
@@ -194,7 +195,10 @@ An experiment is best formatted as below::
       XXX
 
 
-    
+Cosmic Distance Ladder
+----------------------
+
+https://en.m.wikipedia.org/wiki/On_the_Sizes_and_Distances_(Aristarchus)
 
 Suggested reading
 -----------------
