@@ -83,6 +83,17 @@ what to learn.
 It will grow in time.
 
 
+Three streams
+-------------
+
+I like to think there are three streams that each experiment can sit in 
+
+* PreHistory to China
+* Enlightenment 
+* Computers and beyond
+
+
+
 Pre-history
 -----------
 

@@ -1,0 +1,3 @@
+
+
+sudo raspi-config

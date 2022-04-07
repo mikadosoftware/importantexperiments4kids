@@ -93,3 +93,10 @@ Making fire
             Once it's burning, quickly transfer it to the prepared pile of kindling.  At this point, you've
             got yourself a campfire.  Engage marshmallows on sticks, and marvel at your new ability to do what
             no other species on the planet has figured out yet.
+
+The History of the match
+------------------------
+
+https://www.thoughtco.com/history-of-chemical-matches-606805
+
+Making a match from ... urine ! 
