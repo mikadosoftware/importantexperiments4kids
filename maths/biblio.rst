@@ -24,3 +24,7 @@ https://www.mathworksheetscenter.com/mathtips/quadraticequation.html
 
 - describe a solar system
 - describe parabola
+
+
+coding a solar system
+https://youtu.be/4ycpvtIio-o
