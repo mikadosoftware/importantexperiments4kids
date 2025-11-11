@@ -1,7 +1,29 @@
-Major Projects
-==============
+Thoughts
+==========
 
-An important project I think will be to get the VM one  builds as part of the NAND2tetris project to run on top of Linux as an emulator - so your hardware OS and language are running live ? 
+im trying three things here
+
+1. learning the stuff myself 
+2. teaching other dads (parents) 
+3. so they can teach / learn with their own kids
+
+and so this is very much hands on - stuff we can do at home
+even E=MC2 is achievable woth pythagorus and algebra,
+measuring the soze of the planet is trigonometry and 
+most of industrial chemistry can be done in your garage
+
+we can remake the modern world in our own homes
+
+and that really does help.
+
+
+the major way we leanr is "what was the hostorical context" - so ofren that drives the understanding
+for exmaple einsteins relativty
+
+why assume the speed ofnlight is a constant ? 
+why make that your axiom ? because 
+
+
 
 
 How the world works
